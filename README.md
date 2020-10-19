@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Currently working
+# Focusing
 
 - You can find a consequent React code in the Permutation's repo. The others are side projects, using others technologies.
 
