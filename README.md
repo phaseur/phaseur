@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm a web developer
+# Currently working
 
 - You can find a consequent React code in the Permutation's repo. The others are side projects, using others technologies.
 
