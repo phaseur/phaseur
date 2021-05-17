@@ -1,3 +1,3 @@
-### Nicolas Teysseyre - Fullstack developer 🎯
+### Nicolas Teysseyre - Fullstack developer
 
-- 📫 How to reach me: nico7798@gmail.com
+How to reach me 📫 nico7798@gmail.com
